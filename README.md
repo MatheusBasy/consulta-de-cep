@@ -14,6 +14,6 @@ Para iniciar o programa com o nodemon você pode utilizar o comando no Console `
 
 No Insomnia você deve criar um "Request Collection" e após isso criar um "HTTP Request" com uma rota GET para realizar as requisições ao servidor, utilize a rota 
 ```HTTP
-http://localhost:300/enderecos/:cep
+http://localhost:3000/enderecos/:cep
 ```
 no lugar de :cep utilize o cep que desejar para obeter as informações desejadas
