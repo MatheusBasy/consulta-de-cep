@@ -17,3 +17,11 @@ No Insomnia você deve criar um "Request Collection" e após isso criar um "HTTP
 http://localhost:3000/enderecos/:cep
 ```
 no lugar de :cep utilize o cep que desejar para obeter as informações desejadas
+
+como o exemplo a seguir: 
+
+![](imagens/exemplo1.png)
+
+Ao final o insomnia deve retornar como na imagem abaixo.
+
+![](imagens/exemplo2.png)
