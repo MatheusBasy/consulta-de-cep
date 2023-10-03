@@ -1,0 +1,26 @@
+[
+    {
+        "cep": "01001-000",
+        "logradouro": "Praça da Sé",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "83320-200",
+        "logradouro": "Rua São Salvador",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "Pinhais",
+        "uf": "PR",
+        "ibge": "4119152",
+        "gia": "",
+        "ddd": "41",
+        "siafi": "5453"
+    }
+]
